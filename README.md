@@ -1,2 +1,2 @@
 # Projetos_Jupyter
-Projeto da Disciplina das Disciplinas de Análise Técnica de Algoritmos, Padrões de Projeto , Métodos Numéricos e Sinais e Sistemas (Feitos no Jupyter Notebook
+Projeto da Disciplina das Disciplinas de Análise Técnica de Algoritmos,Sinais e Sistemas, Padrões de Projeto e Métodos Numéricos. (Feitos no Jupyter Notebook)
